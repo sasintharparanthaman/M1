@@ -1,7 +1,6 @@
 
 # EX-01-Datatypes-Operators
-# Name:Sasinthar P
-# Roll.no:212223230199
+
 
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
