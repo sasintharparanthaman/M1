@@ -1,6 +1,6 @@
 
 # EX-01-Datatypes-Operators
-# Name:Sasintar P
+# Name:Sasinthar P
 # Roll.no:212223230199
 
 ## AIM:
